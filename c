@@ -1,1 +1,1 @@
-{"index1"="value1","index2"="another json value xd"}
+{"index1":"value1","index2":"another json value xd"}
