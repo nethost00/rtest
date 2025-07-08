@@ -1,2 +1,2 @@
 <ENV>
-name=asd
+1={'price':'what'}
