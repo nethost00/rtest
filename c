@@ -1,3 +1,3 @@
 $__SRT
-<JSON>{"name":"value123"}
+<JSON>{"name":"value123💕"}
 $__END
