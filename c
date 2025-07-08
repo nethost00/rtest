@@ -1,1 +1,2 @@
-<JSON>{"Name":"Value"}
+<ENV>
+name=asd
