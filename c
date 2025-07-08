@@ -1,3 +1,3 @@
 $__SRT
-whoami
+<JSON>{"name":"value123"}
 $__END
