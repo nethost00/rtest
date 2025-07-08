@@ -1,2 +1,2 @@
 <ENV>
-1={'price':'what'}
+1={"price":"what"}
