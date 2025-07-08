@@ -1,3 +1,3 @@
-!START
-<JSON>{"asd":"whoami"}
-!END
+$__SRT
+whoami
+$__END
