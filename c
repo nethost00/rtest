@@ -1,3 +1,3 @@
 !START
-value=Hello World2<&>\/!@#$%^&*()
+<JSON>{"asd":"whoami"}
 !END
