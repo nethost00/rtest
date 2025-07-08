@@ -1,1 +1,1 @@
-asd 1
+name=value123\nname2=another value
