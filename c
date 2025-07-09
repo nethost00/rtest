@@ -1,2 +1,2 @@
 // ENV TEST
-name=stringvalue==123 // Comment
+game_version=1.0 // Current Game Version
