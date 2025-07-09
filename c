@@ -1,1 +1,2 @@
-God fxcking damn it
+// ENV TEST
+name=stringvalue==123
